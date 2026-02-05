@@ -14,4 +14,4 @@ Le projet démontre la faisabilité d’un **système de question-réponse local
 
 
 👨‍💻 Auteur
-Ali Bouziane Ingénieur en Génie Informatique | IA, Big Data & Cybersécurité 📧 bouziane_ali@upf.ac.ma 🔗 LinkedIn
+Ali Bouziane Ingénieur en Génie Informatique | IA, Big Data & Cybersécurité 
