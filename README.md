@@ -13,5 +13,5 @@ L’orchestration est assurée par **LangChain**, permettant de fournir des **r�
 Le projet démontre la faisabilité d’un **système de question-réponse local, efficace et sans dépendance cloud**, applicable à la documentation technique et aux systèmes d’aide à la décision.
 
 
-👨‍💻 Auteur
+👨‍💻 Auteur 
 Ali Bouziane Ingénieur en Génie Informatique | IA, Big Data & Cybersécurité 
